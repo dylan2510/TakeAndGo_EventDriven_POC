@@ -1,0 +1,11 @@
+/Users/dylan/repo/dylan/dotnet/take-and-go/libs/Tag.Contracts/bin/Debug/net8.0/Tag.Contracts.deps.json
+/Users/dylan/repo/dylan/dotnet/take-and-go/libs/Tag.Contracts/bin/Debug/net8.0/Tag.Contracts.dll
+/Users/dylan/repo/dylan/dotnet/take-and-go/libs/Tag.Contracts/bin/Debug/net8.0/Tag.Contracts.pdb
+/Users/dylan/repo/dylan/dotnet/take-and-go/libs/Tag.Contracts/obj/Debug/net8.0/Tag.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dylan/repo/dylan/dotnet/take-and-go/libs/Tag.Contracts/obj/Debug/net8.0/Tag.Contracts.AssemblyInfoInputs.cache
+/Users/dylan/repo/dylan/dotnet/take-and-go/libs/Tag.Contracts/obj/Debug/net8.0/Tag.Contracts.AssemblyInfo.cs
+/Users/dylan/repo/dylan/dotnet/take-and-go/libs/Tag.Contracts/obj/Debug/net8.0/Tag.Contracts.csproj.CoreCompileInputs.cache
+/Users/dylan/repo/dylan/dotnet/take-and-go/libs/Tag.Contracts/obj/Debug/net8.0/Tag.Contracts.dll
+/Users/dylan/repo/dylan/dotnet/take-and-go/libs/Tag.Contracts/obj/Debug/net8.0/refint/Tag.Contracts.dll
+/Users/dylan/repo/dylan/dotnet/take-and-go/libs/Tag.Contracts/obj/Debug/net8.0/Tag.Contracts.pdb
+/Users/dylan/repo/dylan/dotnet/take-and-go/libs/Tag.Contracts/obj/Debug/net8.0/ref/Tag.Contracts.dll

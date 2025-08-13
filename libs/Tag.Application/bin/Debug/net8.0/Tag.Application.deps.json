@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Tag.Application/1.0.0": {
+        "dependencies": {
+          "Tag.Contracts": "1.0.0",
+          "Tag.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Tag.Application.dll": {}
+        }
+      },
+      "Tag.Contracts/1.0.0": {
+        "runtime": {
+          "Tag.Contracts.dll": {}
+        }
+      },
+      "Tag.Domain/1.0.0": {
+        "runtime": {
+          "Tag.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Tag.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Tag.Contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Tag.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

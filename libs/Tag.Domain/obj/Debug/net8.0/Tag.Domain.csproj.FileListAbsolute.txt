@@ -5,6 +5,7 @@
 /Users/dylan/repo/dylan/dotnet/take-and-go/libs/Tag.Domain/obj/Debug/net8.0/Tag.Domain.AssemblyInfoInputs.cache
 /Users/dylan/repo/dylan/dotnet/take-and-go/libs/Tag.Domain/obj/Debug/net8.0/Tag.Domain.AssemblyInfo.cs
 /Users/dylan/repo/dylan/dotnet/take-and-go/libs/Tag.Domain/obj/Debug/net8.0/Tag.Domain.csproj.CoreCompileInputs.cache
+/Users/dylan/repo/dylan/dotnet/take-and-go/libs/Tag.Domain/obj/Debug/net8.0/Tag.Domain.sourcelink.json
 /Users/dylan/repo/dylan/dotnet/take-and-go/libs/Tag.Domain/obj/Debug/net8.0/Tag.Domain.dll
 /Users/dylan/repo/dylan/dotnet/take-and-go/libs/Tag.Domain/obj/Debug/net8.0/refint/Tag.Domain.dll
 /Users/dylan/repo/dylan/dotnet/take-and-go/libs/Tag.Domain/obj/Debug/net8.0/Tag.Domain.pdb

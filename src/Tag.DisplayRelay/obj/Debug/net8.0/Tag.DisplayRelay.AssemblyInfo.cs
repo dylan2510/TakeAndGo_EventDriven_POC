@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Tag.DisplayRelay")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c24c21306f327ded85703dd660f7ece23b595e0c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6058cb4247087957927b209a96ef6ae0add379f8")]
 [assembly: System.Reflection.AssemblyProductAttribute("Tag.DisplayRelay")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Tag.DisplayRelay")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

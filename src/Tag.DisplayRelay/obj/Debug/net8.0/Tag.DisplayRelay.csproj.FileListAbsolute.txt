@@ -49,3 +49,13 @@
 /Users/dylan/repo/dylan/dotnet/take-and-go/src/Tag.DisplayRelay/obj/Debug/net8.0/Tag.DisplayRelay.pdb
 /Users/dylan/repo/dylan/dotnet/take-and-go/src/Tag.DisplayRelay/obj/Debug/net8.0/Tag.DisplayRelay.genruntimeconfig.cache
 /Users/dylan/repo/dylan/dotnet/take-and-go/src/Tag.DisplayRelay/obj/Debug/net8.0/ref/Tag.DisplayRelay.dll
+/Users/dylan/repo/dylan/dotnet/take-and-go/src/Tag.DisplayRelay/bin/Debug/net8.0/Microsoft.Extensions.Configuration.dll
+/Users/dylan/repo/dylan/dotnet/take-and-go/src/Tag.DisplayRelay/bin/Debug/net8.0/Microsoft.Extensions.Configuration.Binder.dll
+/Users/dylan/repo/dylan/dotnet/take-and-go/src/Tag.DisplayRelay/bin/Debug/net8.0/Microsoft.Extensions.Logging.Configuration.dll
+/Users/dylan/repo/dylan/dotnet/take-and-go/src/Tag.DisplayRelay/bin/Debug/net8.0/Microsoft.Extensions.Logging.Console.dll
+/Users/dylan/repo/dylan/dotnet/take-and-go/src/Tag.DisplayRelay/bin/Debug/net8.0/Microsoft.Extensions.Options.ConfigurationExtensions.dll
+/Users/dylan/repo/dylan/dotnet/take-and-go/src/Tag.DisplayRelay/bin/Debug/net8.0/RabbitMQ.Client.dll
+/Users/dylan/repo/dylan/dotnet/take-and-go/src/Tag.DisplayRelay/bin/Debug/net8.0/System.IO.Pipelines.dll
+/Users/dylan/repo/dylan/dotnet/take-and-go/src/Tag.DisplayRelay/bin/Debug/net8.0/System.Text.Encodings.Web.dll
+/Users/dylan/repo/dylan/dotnet/take-and-go/src/Tag.DisplayRelay/bin/Debug/net8.0/System.Text.Json.dll
+/Users/dylan/repo/dylan/dotnet/take-and-go/src/Tag.DisplayRelay/bin/Debug/net8.0/runtimes/browser/lib/net8.0/System.Text.Encodings.Web.dll
